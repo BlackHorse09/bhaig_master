@@ -155,7 +155,7 @@ class _ListOfThingsMasterState extends State<ListOfThingsMaster> {
               },
               decoration: InputDecoration(
                   border: InputBorder.none,
-                  hintText: 'Search for the movies and cinemas'
+                  hintText: 'Order something'
               ),
             ),
           ),
